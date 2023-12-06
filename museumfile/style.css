@@ -1,0 +1,84 @@
+body{
+    font-family: sans-serif;
+    font-size: 1em;
+     background-color: rgb(255, 251, 242);
+     color:#352618;
+     text-align: center;
+}
+h2 {
+    font-size: 2em;
+    color:rgb(192, 125, 77)
+
+  }
+#about {
+    display: block;
+    float: left;
+    text-align: center;
+    font-size: 2em;
+    width: 40%;
+    padding: 1.5em;
+    padding-top: 2em;
+}
+header{   
+     margin-top: 1em;
+     padding: 1em 1em 3em;
+     text-align: center;
+     background-color: #f0ede7;
+     background-image: url(istockphoto-475104482-640_adpp_is.mp4);
+
+}
+footer{
+    display: block;
+    padding: 0%;
+    text-align: center;
+    align-items: center;
+    background-color: #48311b ;
+    color: #fff5e4;
+    border: 1px solid #fbe1b5;
+}
+:visited{
+    color:rgb(183, 90, 19);
+}
+:hover{
+    color: rgb(49, 45, 42);
+}
+
+nav{
+     background-color: #48311b;
+     text-align: center; 
+}
+nav ul{
+    list-style: none;
+    padding: 0%;
+    margin: 0;
+}
+nav li {
+    display: inline-block;
+    margin-right: 20x;
+}
+nav a{
+    text-decoration: none;
+    color: #ffcf76;
+    padding: 10px 20px;
+    display: block;
+} 
+nav b{ 
+    padding:100;
+}
+#gallery {
+    text-align: center;
+}
+.faq {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+section {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
